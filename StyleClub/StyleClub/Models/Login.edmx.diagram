@@ -6,6 +6,9 @@
     <edmx:Diagrams>
       <Diagram DiagramId="a3ff9867d0934efe807c33f2c7824695" Name="Diagram1">
         <EntityTypeShape EntityType="StyleClubdbModel.Admin" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StyleClubdbModel.Category" Width="1.5" PointX="3.75" PointY="0.75" />
+        <EntityTypeShape EntityType="StyleClubdbModel.Product" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="StyleClubdbModel.User" Width="1.5" PointX="2.75" PointY="3.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
